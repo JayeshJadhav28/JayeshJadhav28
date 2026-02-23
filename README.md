@@ -14,9 +14,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=React.js+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+for+30%2C000%2B+real+users+%F0%9F%9A%80;Open+to+Freelance+%26+Internship+Opportunities;Based+in+Pune%2C+Maharashtra+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jayeshjadhav.com-00D9FF?style=for-the-badge&logoColor=white)](https://jayeshjadhav.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayeshjadhav28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-jadhav-connect/)
 [![Gmail](https://img.shields.io/badge/Gmail-jayeshjadhav6480-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayeshjadhav6480@gmail.com)
-[![Available](https://img.shields.io/badge/Status-Available_for_Work_✅-00C853?style=for-the-badge)](https://jayeshjadhav.com)
+[![Available](https://img.shields.io/badge/Status-Available_for_Work_-00C853?style=for-the-badge)](https://jayeshjadhav.com)
 
 </div>
 
@@ -166,7 +166,6 @@ const jayesh = {
 
 [![Portfolio](https://img.shields.io/badge/🌐_jayeshjadhav.com-Visit-00D9FF?style=for-the-badge)](https://jayeshjadhav.com)
 [![Email](https://img.shields.io/badge/📧_Email_Me-jayeshjadhav6480@gmail.com-EA4335?style=for-the-badge)](mailto:jayeshjadhav6480@gmail.com)
-[![Phone](https://img.shields.io/badge/📞_+91_8446256480-Call-25D366?style=for-the-badge)](tel:+918446256480)
 
 </div>
 
@@ -179,10 +178,6 @@ const jayesh = {
 ║   "I don't just write code — I build things people use."    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=JayeshJadhav28&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-⭐ **If you like what I build — star a repo. Let's connect and ship something great together.**
 
 </div>
 
@@ -202,7 +197,7 @@ const jayesh = {
 
 <br/>
 
-⭐ **If you find my work helpful, consider giving my repos a star!**
+⭐ **If you like what I build — star a repo. Let's connect and ship something great together.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=120&section=footer" width="100%" />
 
