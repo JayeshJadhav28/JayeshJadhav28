@@ -175,7 +175,7 @@ const jayesh = {
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   "I don't just write code — I build things people use."    ║
+║   "Let's build something bold enough to be remembered."    ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
